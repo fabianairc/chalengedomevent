@@ -15,6 +15,34 @@ h1 {
   border-style: solid;
   border-width: 1px;
 }
+
+#red{
+    background-color:red
+}
+#black{
+    background-color:black
+}
+#yellow{
+    background-color:yellow
+}
+#white{
+    background-color:white
+}
+      
+#green{
+    background-color:green
+}
+      
+#brown{
+    background-color:brown
+}
+#purple{
+    background-color:purple
+}
+#gray{
+   background-color:gray
+
+}
 .cuadricula{
     display: flex;
   justify-content: center;
